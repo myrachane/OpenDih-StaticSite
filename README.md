@@ -2,7 +2,6 @@
 
 ### "building the next generation of large language models"
 
----
 
 ## About Us
 We are a collective of researchers and engineers dedicated to pushing the boundaries of Large Language Models. Here are OpenDih we are building the world’s first collective-persona LLMs. Our models are trained on the lived experience and technical lore of thousands of developers, creating an AI that feels less like a machine and more like a room full of elite engineers.
@@ -20,9 +19,8 @@ We are a collective of researchers and engineers dedicated to pushing the bounda
 | **Languages** | Python, Rust, CUDA |
 
 ## 📬 Contact & Connect
-* 🌐 [Website](tobemade)
-* 🐦 [Twitter/X](tobemade)
-* 📧 [Email](tobemade)
+* Site https://opendih.github.io/website/
+* Repo https://github.com/OpenDih
 
 ---
 <p align="center">
