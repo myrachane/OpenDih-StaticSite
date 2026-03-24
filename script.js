@@ -77,7 +77,8 @@ function openBlog(file) {
   const data = blogCache[file];
   document.getElementById("modal-content").innerHTML = `
     <h2 class="modal-title">${data.title}</h2>
-        <div class="modal-content" style="padding-bottom: 10em;">${data.content}</div>`;
+    <div class="modal-content">${data.content}</div>
+    <br><br><br><br>`;
 
   document.getElementById("modal-overlay").classList.add("active");
   document.body.style.overflow = "hidden";
