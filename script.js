@@ -17,8 +17,14 @@ function toggleTheme() {
 
 const blogFiles = [
   "23-03-2026.json",
-  "10-02-2026.json",
-  "01-01-2026.json",
+  "24-03-2026.json",
+  "25-03-2026.json",
+  "26-03-2026.json",
+  "27-03-2026.json",
+  "28-03-2026.json",
+  "29-03-2026.json",
+  "30-03-2026.json",
+  "31-03-2026.json",
 ];
 let isDescending = true;
 let blogCache = {};
