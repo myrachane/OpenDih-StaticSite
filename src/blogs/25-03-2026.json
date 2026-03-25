@@ -3,3 +3,4 @@
 Most data cleaning processes use generic placeholders like "@user" or "userCalled," but we decided on no placeholders. We have simply left those fields blank. We believe this is the only way to truly ensure that the model’s personality is built on the substance of our dialogue rather than the identities behind it.
 
 We are still deciding exactly how we'll handle this data in the long term, but for now, the model is being birthed from a truly anonymous stream of thought. Combined with our Opt-Out application and the decision to train artifish/llama3.2-uncensored locally, we are ensuring that the cycle we’re completing is both innovative and ethically sound." }
+<br><br><div style="text-align: right;"><em>— @dpd(Dhruv Pai Dukle), AI lead</em></div>
